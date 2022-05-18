@@ -1,3 +1,5 @@
+hello
+my friend
 # This is a pre-release project now!Dont use it!!!
 # This is a pre-release project now!Dont use it!!!
 # This is a pre-release project now!Dont use it!!!
