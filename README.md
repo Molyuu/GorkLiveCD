@@ -1,3 +1,7 @@
+# This is a pre-release project now!Dont use it!!!
+# This is a pre-release project now!Dont use it!!!
+# This is a pre-release project now!Dont use it!!!
+
 # GorkLiveCD
 ## Introduction
 The Gork Live CD Project aims to create a Arch-based Linux live cd with the minimal size.
