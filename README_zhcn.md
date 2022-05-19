@@ -1,5 +1,5 @@
 # GorkLiveCD
-> [简体中文(Still Working With)](./README_zhcn.md)
+> [简体中文](./README_zhcn.md)
 ## Introduction
 The Gork Live CD Project aims to create a Arch-based Linux live cd with the minimal size.
 
@@ -24,15 +24,10 @@ sudo mkarchiso -v -w ./ -o .. ./
 - Some repo(`archlinuxcn`)
 - Some programs we need
 	- Browser:Firefox
-### Know issues
-- Fcitx5 need to be configure manually(you have to add `Pinyin` method to it)
-- 丑
 
 ### Todo list:
 - [ ] Chinese support(for locale.conf) 
 - [ ] More packages(such as `libreoffice-fresh`,`wemeet-bin`)(Still **considering**!)
-- [ ] Beautify
-	- Fonts
-	- Theme for Plasma
+- [ ] Beautify 
 - [ ] Please tell me
 
