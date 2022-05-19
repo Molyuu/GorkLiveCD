@@ -1,5 +1,5 @@
 # GorkLiveCD
-> [简体中文](./README_zhcn.md)
+
 ## Introduction
 The Gork Live CD Project aims to create a Arch-based Linux live cd with the minimal size.
 
