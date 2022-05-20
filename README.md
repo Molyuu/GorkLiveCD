@@ -2,11 +2,11 @@
 
 ## Introduction
 
-The Gork Live CD Project aims to create a Arch-based Linux live cd with the minimal size.
+The Gork Live CD Project(a.k.a GLCP),aims to create a Arch-based Linux live cd with the minimal size.
 
 We always obey the KISS(Keep It Simple and Stupid)so we will try our best to keep as same as the upstream and won't configure too much.
 
-However,you can still edit the files we published to configure your own Live CD.Please view [archiso page from ArchWiki](https://wiki.archlinux.org/title/Archiso) for details
+You can edit the files we published to configure your own Live CD.Please view [archiso page from ArchWiki](https://wiki.archlinux.org/title/Archiso) for details
 
 ## Installation
 
