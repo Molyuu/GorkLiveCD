@@ -42,7 +42,7 @@ sudo mkarchiso -v -w ./ -o .. ./
 
 ### Todo list
 
-- [ ] Chinese support(for locale.conf) 
+- [ ] Chinese support(for locale.conf)
 - [ ] More packages(such as `libreoffice-fresh`,`wemeet-bin`)(Still **considering**!)
 - [ ] Beautify
   - Fonts
