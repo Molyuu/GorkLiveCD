@@ -4,7 +4,7 @@
 
 The Gork Live CD Project aims to create a Arch-based Linux live cd with the minimal size.
 
-We always obey the KISS(Keep It Simple and Stupid)so we will try our best to keep as same as the upstream and wont configure too much.
+We always obey the KISS(Keep It Simple and Stupid)so we will try our best to keep as same as the upstream and won't configure too much.
 
 However,you can still edit the files we published to configure your own Live CD.Please view [archiso page from ArchWiki](https://wiki.archlinux.org/title/Archiso) for details
 
@@ -12,7 +12,9 @@ However,you can still edit the files we published to configure your own Live CD.
 
 1. You can just download the latest iso from [github release](https://github.com/Molyuu/GorkLiveCD/releases)
 
-2. (**strongly recommend**)or,you can clone this repo and use `mkarchiso`to generate the iso.By doing this,your iso will use the latest packages.
+2. (**strongly recommend**)You can also clone this repo and use `mkarchiso`to generate the iso.By doing this,your iso will use the latest packages.
+
+Please do like this:
 
 ```bash
 git clone https://github.com/Molyuu/GorkLiveCD.git
